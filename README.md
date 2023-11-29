@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dennis Mwaura 
-- 👀 I am currently learning NestJs and GraphQl which is actually  amazing
-  Looking to master this exicting technology.  
+- 👀 I am currently working on  NestJs and GraphQl which is actually  amazing
+  
 - 🌱 You can reach out to me via this email dennismwaura074@gmail.com
   Check out my github on all projects concerning React Native and its intrinic features.
 
