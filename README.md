@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Dennis Mwaura 
-- 👀 I am currently working on  NestJs and GraphQl which is actually  amazing and challenging than your normal Nodejs. 
-   
-- 🌱 You can reach out to me via this email dennismwaura074@gmail.com
+your go to software developer let's collaborate together to buildng real life solutions 
   Check out my github on all projects concerning React Native and its intrisnic features.
 
   Happy Coding Fellow developers
